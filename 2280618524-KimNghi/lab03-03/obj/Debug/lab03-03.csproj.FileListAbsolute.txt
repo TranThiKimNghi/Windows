@@ -1,0 +1,16 @@
+C:\Users\Kim Nghi\source\repos\2280618524-KimNghi\lab03-03\bin\Debug\lab03-03.exe.config
+C:\Users\Kim Nghi\source\repos\2280618524-KimNghi\lab03-03\bin\Debug\lab03-03.exe
+C:\Users\Kim Nghi\source\repos\2280618524-KimNghi\lab03-03\bin\Debug\lab03-03.pdb
+C:\Users\Kim Nghi\source\repos\2280618524-KimNghi\lab03-03\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kim Nghi\source\repos\2280618524-KimNghi\lab03-03\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kim Nghi\source\repos\2280618524-KimNghi\lab03-03\obj\Debug\lab03-03.csproj.AssemblyReference.cache
+C:\Users\Kim Nghi\source\repos\2280618524-KimNghi\lab03-03\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kim Nghi\source\repos\2280618524-KimNghi\lab03-03\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kim Nghi\source\repos\2280618524-KimNghi\lab03-03\obj\Debug\lab03-03.csproj.ResolveComReference.cache
+C:\Users\Kim Nghi\source\repos\2280618524-KimNghi\lab03-03\obj\Debug\lab03_03.Form1.resources
+C:\Users\Kim Nghi\source\repos\2280618524-KimNghi\lab03-03\obj\Debug\lab03_03.Form2.resources
+C:\Users\Kim Nghi\source\repos\2280618524-KimNghi\lab03-03\obj\Debug\lab03_03.Properties.Resources.resources
+C:\Users\Kim Nghi\source\repos\2280618524-KimNghi\lab03-03\obj\Debug\lab03-03.csproj.GenerateResource.cache
+C:\Users\Kim Nghi\source\repos\2280618524-KimNghi\lab03-03\obj\Debug\lab03-03.csproj.CoreCompileInputs.cache
+C:\Users\Kim Nghi\source\repos\2280618524-KimNghi\lab03-03\obj\Debug\lab03-03.exe
+C:\Users\Kim Nghi\source\repos\2280618524-KimNghi\lab03-03\obj\Debug\lab03-03.pdb
